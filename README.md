@@ -5,7 +5,7 @@ This is ATM machine with typescript, node.js and inquirer.
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
-  alt="coding" width="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9nf7bf7VS1rzg-WyWQY0WoQr-6g9hCArCjhH-RTFPQ&s" alt="soniyamuhammaddawood" /> </p>
+  alt="coding" width="300"  src="https://i.pinimg.com/originals/5b/ad/f7/5badf72a895a0a9d6ff371ef364d56af.gif"alt="soniyamuhammaddawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
