@@ -2,7 +2,7 @@
 This is ATM machine with typescript, node.js and inquirer.
 
 <h1 align="center">Hi 👋, I'm SoniyaMuhammadDawood</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A beginner from Pakistan</h3>
 
 <p align="left"> <img align="right"
   alt="coding" width="300"  src="https://i.pinimg.com/originals/5b/ad/f7/5badf72a895a0a9d6ff371ef364d56af.gif" alt="soniyamuhammaddawood" /> </p>
